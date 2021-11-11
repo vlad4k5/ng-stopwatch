@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/reset-css/sass/reset";
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+html {
+  font-family: "Lato", sans-serif;
+}
